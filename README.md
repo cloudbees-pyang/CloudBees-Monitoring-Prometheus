@@ -13,6 +13,9 @@
     4. Sample Dashboard for controllers: https://grafana.com/grafana/dashboards/?search=jenkins
 6. The metrics explanation: https://plugins.jenkins.io/metrics/#documentation
 
+## NOTE 
+The health check API: https://docs.cloudbees.com/docs/cloudbees-ci-api/latest/metrics-api#_healthcheck 
+
 ## Cjoc ServiceMonitor sample code:
 
 additionalServiceMonitors: 
